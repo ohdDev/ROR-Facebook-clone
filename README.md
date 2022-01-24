@@ -24,8 +24,20 @@ Also I create a CRUD operations on each one as shown below.
 ### 1- posts CRUD operations
 
 #####    - Create posts
+
+![create post console](https://i.postimg.cc/SNcBhQ2L/create-post-console.png)
+
+
 #####    - Update posts
+
+![update post console](https://i.postimg.cc/bvYrnBcM/update-post-console.png)
+
+
 #####    - Delete posts
+
+![delete post console](https://i.postimg.cc/MZtSMpKW/delete-post-console.png)
+
+
 
 
 
