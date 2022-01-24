@@ -1,24 +1,31 @@
-# README
+# ROR Facebook Clone Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Overview
+in this project I create Ruby On Rails project that has two tables: users and posts.
+Also I create a CRUD operations on each one as shown below.
 
-Things you may want to cover:
+### 1- users CRUD operations
 
-* Ruby version
+#####    - Create users
 
-* System dependencies
+![create user console](https://ibb.co/44zyMF8)
 
-* Configuration
 
-* Database creation
+#####    - Update users
 
-* Database initialization
+![update user console](https://ibb.co/6tSKtpR)
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+#####    - Delete users
 
-* Deployment instructions
+![update user console](https://ibb.co/c8k7xRY)
 
-* ...
+
+### 1- posts CRUD operations
+
+#####    - Create posts
+#####    - Update posts
+#####    - Delete posts
+
+
+
