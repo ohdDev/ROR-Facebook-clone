@@ -8,17 +8,17 @@ Also I create a CRUD operations on each one as shown below.
 
 #####    - Create users
 
-![create user console](https://ibb.co/44zyMF8)
+![create user console](https://i.postimg.cc/fR4YYBkf/create-user-console.png)
 
 
 #####    - Update users
 
-![update user console](https://ibb.co/6tSKtpR)
+![update user console](https://i.postimg.cc/RCytzX1x/update-user-console.png)
 
 
 #####    - Delete users
 
-![update user console](https://ibb.co/c8k7xRY)
+![update user console](https://i.postimg.cc/Y9VvMCWz/delete-user-console.png)
 
 
 ### 1- posts CRUD operations
